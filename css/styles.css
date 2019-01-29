@@ -138,9 +138,7 @@ hr {
 .footer-name{
   color:#eaf6f6;
   font-size: 0.9rem;
-  position: absolute;
-  top: 65px;
-  left:600px;
+  margin:10px auto;
 }
 .footer-link:hover{
   color: #eaf6f6;
