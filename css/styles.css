@@ -31,7 +31,9 @@ h3 {
   color: #11999e;
   font-weight: bold;
 }
-
+p{
+  font-size:1.1em;
+}
 .rajan-img {
   width: 200px;
   border-radius: 100px;
